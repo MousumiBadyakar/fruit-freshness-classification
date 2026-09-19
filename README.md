@@ -6,7 +6,7 @@ The project uses a trained TensorFlow/Keras model and provides an interactive in
 
 ## 🚀 Live Demo
 
-🔗 **[Try the Live Application](YOUR_STREAMLIT_APP_LINK)**
+🔗 **[Try the Live Application](https://fruit-freshness-classification-fmsifapqpthbchzegmnoic.streamlit.app/)**
 
 ## 📌 Project Overview
 
