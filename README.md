@@ -64,6 +64,7 @@ Multi-class freshness classification
 Improved model accuracy with a larger dataset
 Real-time camera-based classification
 Model performance monitoring
+
 ⚠️ Disclaimer
 
 The prediction is based on the trained model and dataset used for this project. Results may vary depending on image quality, lighting conditions, fruit variety, and other factors.
