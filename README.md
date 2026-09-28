@@ -6,7 +6,7 @@ The project uses a trained TensorFlow/Keras model and provides an interactive in
 
 ## 🚀 Live Demo
 
-🔗 **(https://fruit-freshness-classification-fmsifapqpthbchzegmnoic.streamlit.app/)**
+🔗 **[Try Fruit Freshness Detector](https://fruit-freshness-classification-fmsifapqpthbchzegmnoic.streamlit.app/)**
 
 ## 📌 Project Overview
 
